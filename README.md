@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nakul Patel!  
+# 👋 Hey, I’m Nakul Patel!  
 
-🚀 **About Me**  
-I'm a third-year Double Degree student in **Business Administration & Computer Science** with a strong background in **finance** and **data analytics**.  
-My passion lies in **Mergers & Acquisitions (M&A)**, **fintech**, and **private equity**, and I enjoy building innovative solutions that bridge technology and finance.  
+I’m a **fourth-year Computer Science & Business Administration student at Wilfrid Laurier University**, passionate about building **scalable software, machine learning models, and full-stack applications**.  
+
+With a strong foundation in **software engineering, cloud computing, and data science**, I focus on bridging **business strategy with cutting-edge technology** to deliver impactful solutions.  
 
 ---
 
@@ -49,13 +49,14 @@ My passion lies in **Mergers & Acquisitions (M&A)**, **fintech**, and **private 
 
 ---
 
-## 📫 Connect With Me  
+## 🌐 Connect With Me  
 
-- [LinkedIn](https://www.linkedin.com/in/nakulpatel0306)  
-- [GitHub](https://github.com/nakulpatel0306)  
-- Email: **pate1079@mylaurier.ca**  
-- [Personal Website](https://nakul-patel-portfolio.netlify.app/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nakulpatel0306/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nakul0306@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://nakulpatel0306.github.io/my-portfolio"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>  
 
 ---
 
-📌 *Always eager to collaborate on new projects and explore innovative ideas!* 🚀
+⭐️ *Aspiring Software Innovator Focused On Building Impactful Solutions With Cutting-Edge Tech.*  
