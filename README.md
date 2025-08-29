@@ -65,4 +65,4 @@ I’m motivated by the impact of technology to **solve real-world problems**, an
 
 ---
 
-⭐️ *Aspiring Software Innovator Focused On Building Impactful Solutions With Cutting-Edge Tech.*  
+⭐️ *Aspiring Software Innovator Focused On Building Impactful Solutions With Cutting-Edge Tech*  
