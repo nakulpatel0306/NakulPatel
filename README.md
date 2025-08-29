@@ -2,7 +2,7 @@
 
 I’m a **fourth-year Computer Science & Business Administration student at Wilfrid Laurier University**, passionate about building **scalable software, machine learning models, and full-stack applications**.  
 
-With a strong foundation in **software engineering, cloud computing, and data science**, I focus on bridging **business strategy with cutting-edge technology** to deliver impactful solutions.  
+I’m motivated by the impact of technology to solve real-world problems, and I aim to contribute to projects that push the boundaries of innovation.
 
 ---
 
